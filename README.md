@@ -49,6 +49,19 @@ Women had a significantly higher survival rate than men.
 Passengers in higher classes (Pclass 1) had better chances of survival.
 Younger passengers tended to survive slightly more often.
 The baseline ML model achieved solid accuracy (exact value depends on run).
+Key Results
+
+Average survival rate: 38%
+
+Women survival: 74%
+
+Men survival: 18%
+
+First class survival: 63%
+
+Third class survival: 24%
+
+Ticket price correlates with survival (0.27)
 
 **Contact**
 Project maintained by Anna Stefańska.
