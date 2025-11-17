@@ -9,20 +9,6 @@ The goal is to perform data cleaning, exploratory data analysis (EDA), visualize
 - Visualize distributions and correlations
 - Build a baseline ML model predicting survival
 - Summarize insights
-  
-**Repository Structure**
-titanic-data-analysis/
-│
-├── data/
-│   └── titanic.csv
-│
-├── notebook/
-│   └── titanic_analysis.ipynb
-│
-├── images/
-│   └── charts.png      # any plots exported from the notebook
-│
-└── README.md
 
 **Tools & Libraries**
 Python 3.x
